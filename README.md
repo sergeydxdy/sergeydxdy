@@ -10,7 +10,7 @@
 
 Прямо сейчас работаю над ботом в телеграм с ИИ
 
-[Проект с физикой](https://github.com/sergeydxdy/engine/tree/master)
+[Проект с физикой](https://github.com/sergeydxdy/engine/tree/master)  
 [Мятник и ИИ](https://github.com/sergeydxdy/pendulum)
 
 🌏 Novosibirsk, Russia  
