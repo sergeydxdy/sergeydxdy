@@ -13,4 +13,6 @@
 🌏 Novosibirsk, Russia  
 <a href="https://t.me/sergey_dzh">
   <img src="https://icons-for-free.com/iff/png/256/telegram-1331550893597324235.png" alt="Telegram" width="16" height="16">
-</a> telegram для связи
+  Telegram для связи
+</a>
+
