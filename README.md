@@ -11,5 +11,6 @@
 Прямо сейчас работаю над ботом в телеграм с ИИ
 
 🌏 Novosibirsk, Russia
-[![Telegram](https://icons-for-free.com/iff/png/256/telegram-1331550893597324235.png)](https://t.me/sergey_dzh)
-
+<a href="https://t.me/sergey_dzh">
+  <img src="https://icons-for-free.com/iff/png/256/telegram-1331550893597324235.png" alt="Telegram" width="16" height="16">
+</a>
