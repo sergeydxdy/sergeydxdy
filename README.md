@@ -11,8 +11,9 @@
 Прямо сейчас работаю над ботом в телеграм с ИИ
 
 ## Некоторые проекты
+[Антиспам ИИ бот](https://github.com/sergeydxdy/Antispam-AI-Telegram-bot/tree/main)
 [Проект с физикой](https://github.com/sergeydxdy/engine/tree/master)  
-[Мятник и ИИ](https://github.com/sergeydxdy/pendulum)
+[Маятник и ИИ](https://github.com/sergeydxdy/pendulum)
 
 ## Как меня найти
 🌏 Novosibirsk, Russia  
